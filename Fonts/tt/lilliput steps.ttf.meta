@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7a2d3c5bf4c51f74aa2926855531fc58
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lilliput Steps
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 861cd9ac1dea81a4fbfe232c4a764984, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
